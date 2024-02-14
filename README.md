@@ -12,3 +12,5 @@ PS: I am not finished with the course yet, these are the projects I have done so
 - Day 6:  done on an online platform
 - Day 7: "Hangman"
 - Day 8: "Caesar Cypher"
+- Day 9: "Secret Auction"
+- Day 10: "Calculator"
