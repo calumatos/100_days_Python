@@ -14,3 +14,4 @@ PS: I am not finished with the course yet, these are the projects I have done so
 - Day 8: "Caesar Cypher"
 - Day 9: "Secret Auction"
 - Day 10: "Calculator"
+- Day 11: "Blackjack"
